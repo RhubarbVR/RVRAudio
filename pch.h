@@ -7,6 +7,15 @@
 #ifndef PCH_H
 #define PCH_H
 
-// add headers that you want to pre-compile here
+#include <al.h>
+#include <alc.h>
+#include <efx.h>
+#include <efx-creative.h>
+#include <EFX-Util.h>
+#include <xram.h>
+#include <cstddef>
+#include <unordered_set>
+#include <unordered_map>
+
 
 #endif //PCH_H
